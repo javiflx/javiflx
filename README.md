@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @javiflx
 - 👀 I’m interested in Webflix
 - 🌱 I’m currently learning Nuxtjs
-- 💞️ I’m looking to collaborate on Webflix
 - 📫 How to reach me javibarrientosfernandez99@gmail.com
 
 <!---
